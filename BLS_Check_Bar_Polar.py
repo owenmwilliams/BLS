@@ -1,3 +1,5 @@
+#Copyright 2015 Owen Williams
+
 import csv
 import wx
 from pylab import *
