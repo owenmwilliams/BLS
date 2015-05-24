@@ -1,4 +1,5 @@
-# BLS This script will read BLS .csv data and save a polar bar chart (current.png) that 
+# README
+BLS This script will read BLS .csv data and save a polar bar chart (current.png) that 
 represent the percentage of total employment (width of the pie slice) as well as the 
 average salary of each position (length of the pie slice). This script works well with 
 the BLS data file included here (/owenmwilliams/BLS/bls.csv). Note that this data is 
